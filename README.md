@@ -30,7 +30,7 @@ These two domains may appear different, but they share a common foundation:
 * Project support (PM / PdM assistance)
 * Bridging gaps between business, design, and engineering
 
-→ [Overview](./Contexture/Overview.md)
+→ [Overview](./contexture/overview.md)
 
 ---
 
@@ -42,7 +42,7 @@ These two domains may appear different, but they share a common foundation:
 
 *Kozo (楮) is a traditional Japanese plant used as the primary raw material for washi — a durable, renewable, and culturally significant form of paper that has supported everyday life and craftsmanship in Japan for centuries.*
 
-→ [Concept](./eruanoha/Concept.md)
+→ [Concept](./eru/concept.md)
 
 
 ---
@@ -57,7 +57,7 @@ These two domains may appear different, but they share a common foundation:
 
 ## Career
 
-→ [Resume](./Career/Resume.md)
+→ [Resume](./career/resume.md)
 
 ---
 
