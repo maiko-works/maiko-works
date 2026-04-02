@@ -1,5 +1,5 @@
 # Resume
 
-This page is currently being prepared.
+Bridge Engineer with experience in offshore development support and project coordination.
 
-Please refer to the main README for an overview.
+Full details will be added soon.
